@@ -1,0 +1,49 @@
+{
+	"status":"success",
+	"message":"",
+	"data":{
+		"purchase_number":"32109952390",
+		"contract_number":"",
+		"ref_contract":"",
+		"ref_purchase":"http:\/\/zakupki.gov.ru\/223\/purchase\/public\/purchase\/info\/common-info.html?regNumber=32109952390",
+		"sum":195900,
+		"start_cost":195900,
+		"total_cost":0,
+		"notification_date":"02.02.2021",
+		"provision_sum":0,
+		"auction_date":"",
+		"tender_end_at":"12.02.2021",
+		"protocol_number":"",
+		"protocol_date":"",
+		"stage_code":"",
+		"stage_name":"",
+		"start_at":"",
+		"end_at":"",
+		"subject":"Поставка вентиляционно-отопительного оборудования",
+		"beneficiary_name":"АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРЯКЭНЕРГО\"",
+		"beneficiary_inn":"8202010020",
+		"lots":[
+				{
+					"lot_number":"1",
+					"lot_name":"Поставка вентиляционно-отопительного оборудования",
+					"lot_central_purchase":"Нет",
+					"lot_info_price":"Начальная (максимальная) цена договора: 195 900,00 Российский рубль",
+					"lot_okpd2":"28.13 Насосы и компрессоры прочие",
+					"lot_okved2":"28.13 Производство прочих насосов и компрессоров"
+				}
+				],
+		"penalty_sum":"",
+					"penalty_paid_sum":"",
+		"penalty_unpaid_sum":"",
+		"downprice_percent":"",
+		"disclosure_demand_sum":"",
+		"type_auction":"",
+		"law":"223-ФЗ",
+		"purchase_objects":[
+							{
+								"n2000222":"28.13",
+								"n2000223":"Насосы и компрессоры прочие"
+							}
+							]
+			}
+}
